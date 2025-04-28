@@ -1,0 +1,7 @@
+.env
+vendor/
+storage/framework/*
+storage/logs/*
+storage/public/*
+storage/app/*
+storage/upload/*
